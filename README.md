@@ -11,7 +11,7 @@ git clone https://github.com/yaseenemv/WiFi-ExTr4ct0r.git
 
 ls
 
-cdcd WiFi-ExTr4ct0r
+cd WiFi-ExTr4ct0r
 
 ls
 Chmod +x ./WiFi-ExTr4ct0r.sh
