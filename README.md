@@ -11,7 +11,10 @@ git clone https://github.com/yaseenemv/WiFi-ExTr4ct0r.git
 
 ls
 
-Chmod +x WiFi-ExTr4ct0r.sh
+cdcd WiFi-ExTr4ct0r
+
+ls
+Chmod +x ./WiFi-ExTr4ct0r.sh
 
 Then connect to root Enter 1 num
 
