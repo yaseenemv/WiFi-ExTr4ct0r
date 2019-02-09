@@ -4,7 +4,9 @@ How to find Saved WiFi password  Only can use android (termux ) users and root r
 # Termux Command
 
 pkg install update && pkg install upgrade
+
 pkg install git
+
 git clone https://github.com/yaseenemv/WiFi-ExTr4ct0r
 ls
 Chmod +x WiFi-ExTr4ct0r.sh
